@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neuralive-logo.png" alt="NeuraLive" width="720">
+  <img src="assets/neuralive-logo.png" alt="NeuraLive" width="420">
 </p>
 
 <p align="center">
